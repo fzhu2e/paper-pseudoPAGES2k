@@ -40,4 +40,4 @@ Please click the links below to download a specific version.
 For the usage of the pseudoPAGES2k dataset, please refer to these [Jupyter notebooks](https://fzhu2e.github.io/cfr/ug-pp2k.html).
 
 ## How to cite this repo
-This repo can be cited with DOI: [10.5281/zenodo.7652533](https://doi.org/10.5281/zenodo.7652533).
+This repo can be cited with DOI: [10.5281/zenodo.7652533](https://doi.org/10.5281/zenodo.7652533)
