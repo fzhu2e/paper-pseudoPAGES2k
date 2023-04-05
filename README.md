@@ -13,26 +13,28 @@ Please click the links below to download a specific version.
 
 | Dataset ID                                     | Signal              | Noise       | SNR  | Sampling  |
 |------------------------------------------------|---------------------|-------------|------|-----------|
-| [tpwn_SNR10_fta](./data/tpwn_SNR10_fta.nc)     | nearest temperature | white noise | 10   | full      |
-| [tpwn_SNR2_fta](./data/tpwn_SNR2_fta.nc)       | nearest temperature | white noise | 2    | full      |
-| [tpwn_SNR1_fta](./data/tpwn_SNR1_fta.nc)       | nearest temperature | white noise | 1    | full      |
-| [tpwn_SNR0.5_fta](./data/tpwn_SNR0.5_fta.nc)   | nearest temperature | white noise | 0.5  | full      |
-| [tpwn_SNR0.25_fta](./data/tpwn_SNR0.25_fta.nc) | nearest temperature | white noise | 0.25 | full      |
-| [tpwn_SNR10_rta](./data/tpwn_SNR10_rta.nc)     | nearest temperature | white noise | 10   | realistic |
-| [tpwn_SNR2_rta](./data/tpwn_SNR2_rta.nc)       | nearest temperature | white noise | 2    | realistic |
-| [tpwn_SNR1_rta](./data/tpwn_SNR1_rta.nc)       | nearest temperature | white noise | 1    | realistic |
-| [tpwn_SNR0.5_rta](./data/tpwn_SNR0.5_rta.nc)   | nearest temperature | white noise | 0.5  | realistic |
-| [tpwn_SNR0.25_rta](./data/tpwn_SNR0.25_rta.nc) | nearest temperature | white noise | 0.25 | realistic |
-| [ppwn_SNR10_fta](./data/ppwn_SNR10_fta.nc)     | psm generated       | white noise | 10   | full      |
-| [ppwn_SNR2_fta](./data/ppwn_SNR2_fta.nc)       | psm generated       | white noise | 2    | full      |
-| [ppwn_SNR1_fta](./data/ppwn_SNR1_fta.nc)       | psm generated       | white noise | 1    | full      |
-| [ppwn_SNR0.5_fta](./data/ppwn_SNR0.5_fta.nc)   | psm generated       | white noise | 0.5  | full      |
-| [ppwn_SNR0.25_fta](./data/ppwn_SNR0.25_fta.nc) | psm generated       | white noise | 0.25 | full      |
+| [ppwn_SNRinf_rta](./data/ppwn_SNRinf_rta.nc)   | psm generated       | none        | inf  | realistic |
 | [ppwn_SNR10_rta](./data/ppwn_SNR10_rta.nc)     | psm generated       | white noise | 10   | realistic |
 | [ppwn_SNR2_rta](./data/ppwn_SNR2_rta.nc)       | psm generated       | white noise | 2    | realistic |
 | [ppwn_SNR1_rta](./data/ppwn_SNR1_rta.nc)       | psm generated       | white noise | 1    | realistic |
 | [ppwn_SNR0.5_rta](./data/ppwn_SNR0.5_rta.nc)   | psm generated       | white noise | 0.5  | realistic |
 | [ppwn_SNR0.25_rta](./data/ppwn_SNR0.25_rta.nc) | psm generated       | white noise | 0.25 | realistic |
+| [ppwn_SNRinf_fta](./data/ppwn_SNRinf_fta.nc)   | psm generated       | none        | inf  | full      |
+| [ppwn_SNR10_fta](./data/ppwn_SNR10_fta.nc)     | psm generated       | white noise | 10   | full      |
+| [ppwn_SNR2_fta](./data/ppwn_SNR2_fta.nc)       | psm generated       | white noise | 2    | full      |
+| [ppwn_SNR1_fta](./data/ppwn_SNR1_fta.nc)       | psm generated       | white noise | 1    | full      |
+| [ppwn_SNR0.5_fta](./data/ppwn_SNR0.5_fta.nc)   | psm generated       | white noise | 0.5  | full      |
+| [ppwn_SNR0.25_fta](./data/ppwn_SNR0.25_fta.nc) | psm generated       | white noise | 0.25 | full      |
+| [tpwn_SNR10_rta](./data/tpwn_SNR10_rta.nc)     | nearest temperature | white noise | 10   | realistic |
+| [tpwn_SNR2_rta](./data/tpwn_SNR2_rta.nc)       | nearest temperature | white noise | 2    | realistic |
+| [tpwn_SNR1_rta](./data/tpwn_SNR1_rta.nc)       | nearest temperature | white noise | 1    | realistic |
+| [tpwn_SNR0.5_rta](./data/tpwn_SNR0.5_rta.nc)   | nearest temperature | white noise | 0.5  | realistic |
+| [tpwn_SNR0.25_rta](./data/tpwn_SNR0.25_rta.nc) | nearest temperature | white noise | 0.25 | realistic |
+| [tpwn_SNR10_fta](./data/tpwn_SNR10_fta.nc)     | nearest temperature | white noise | 10   | full      |
+| [tpwn_SNR2_fta](./data/tpwn_SNR2_fta.nc)       | nearest temperature | white noise | 2    | full      |
+| [tpwn_SNR1_fta](./data/tpwn_SNR1_fta.nc)       | nearest temperature | white noise | 1    | full      |
+| [tpwn_SNR0.5_fta](./data/tpwn_SNR0.5_fta.nc)   | nearest temperature | white noise | 0.5  | full      |
+| [tpwn_SNR0.25_fta](./data/tpwn_SNR0.25_fta.nc) | nearest temperature | white noise | 0.25 | full      |
 
 ## Usage
 
