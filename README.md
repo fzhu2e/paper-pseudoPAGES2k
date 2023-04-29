@@ -1,9 +1,9 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7652533.svg)](https://doi.org/10.5281/zenodo.7652533)
 
 
-# Data repository for *A pseudoproxy emulation of the PAGES 2k database using a hierarchy of proxy system models*
+# Data & code repository for *A pseudoproxy emulation of the PAGES 2k database using a hierarchy of proxy system models*
 
-This repository includes the pseudoPAGES2k dataset described in the paper entitled *A pseudoproxy emulation of the PAGES 2k database using a hierarchy of proxy system models*.
+This repository includes the pseudoPAGES2k dataset described in the paper entitled *A pseudoproxy emulation of the PAGES 2k database using a hierarchy of proxy system models* along with the Jupyter notebooks illustrating the usage of the dataset.
 
 ## Download
 
@@ -37,7 +37,13 @@ Please click the links below to download a specific version.
 
 ## Usage
 
-For the usage of the pseudoPAGES2k dataset, please refer to these [Jupyter notebooks](https://fzhu2e.github.io/cfr/ug-pp2k.html).
+Jupyter notebooks illustrating the usage of the dataset:
+
+- [Loading and visualization](./notebooks/pdb-load-viz.ipynb)
+- [Database Filtering](./notebooks/pdb-filter.ipynb)
+- [Validation Dashboards](./notebooks/dashboards.ipynb)
+- [PPE: A PDA-based Reconstruction](./notebooks/ppe-pda.ipynb)
+
 
 ## How to cite this repo
 This repo can be cited with DOI: [10.5281/zenodo.7652533](https://doi.org/10.5281/zenodo.7652533)
