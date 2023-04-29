@@ -37,7 +37,7 @@ Please click the links below to download a specific version.
 
 ## Usage
 
-Jupyter notebooks illustrating the usage of the dataset:
+Jupyter notebooks illustrating the usage of the dataset leveraging `cfr` v0.4.6 (`pip install cfr==0.4.6`, DOI: [10.5281/zenodo.7855587](https://doi.org/10.5281/zenodo.7855587)):
 
 - [Loading and visualization](./notebooks/pdb-load-viz.ipynb)
 - [Database Filtering](./notebooks/pdb-filter.ipynb)
@@ -45,5 +45,5 @@ Jupyter notebooks illustrating the usage of the dataset:
 - [PPE: A PDA-based Reconstruction](./notebooks/ppe-pda.ipynb)
 
 
-## How to cite this repo
-This repo can be cited with DOI: [10.5281/zenodo.7652533](https://doi.org/10.5281/zenodo.7652533)
+## How to cite
+This repository can be cited with DOI: [10.5281/zenodo.7652533](https://doi.org/10.5281/zenodo.7652533)
