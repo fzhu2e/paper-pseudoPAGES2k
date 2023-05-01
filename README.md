@@ -5,6 +5,9 @@
 
 This repository includes the pseudoPAGES2k dataset described in the paper entitled *A pseudoproxy emulation of the PAGES 2k database using a hierarchy of proxy system models* along with the Jupyter notebooks illustrating the usage of the dataset.
 
+The reference climate input used to generate the pseudoproxies is from the isotope-enabled Community Earth System Model (iCESM) last millennium plus historical simulations ([Brady et al., 2019](https://doi.org/10.1029/2019MS001663)), and the post-processed files can be downloaded here: https://atmos.washington.edu/~rtardif/LMR/prior/
+
+
 ## Download
 
 The pseudoPAGES2k dataset includes multiple versions with various settings.
