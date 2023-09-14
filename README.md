@@ -5,8 +5,7 @@
 # Data & code repository for *A pseudoproxy emulation of the PAGES 2k database using a hierarchy of proxy system models*
 
 This repository includes the pseudoPAGES2k dataset described in the paper published in *Scientific Data*:
-
-    Zhu, F., Emile-Geay, J., Anchukaitis, K.J. et al. A pseudoproxy emulation of the PAGES 2k database using a hierarchy of proxy system models. Sci Data 10, 624 (2023). https://doi.org/10.1038/s41597-023-02489-1
+- Zhu, F., Emile-Geay, J., Anchukaitis, K.J. et al. A pseudoproxy emulation of the PAGES 2k database using a hierarchy of proxy system models. Sci Data 10, 624 (2023). https://doi.org/10.1038/s41597-023-02489-1
 
 along with the Jupyter notebooks illustrating the usage of the dataset.
 
