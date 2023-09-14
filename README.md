@@ -1,9 +1,15 @@
+[![DOI](https://zenodo.org/badge/DOI/10.1038/s41597-023-02489-1.svg)](https://doi.org/10.1038/s41597-023-02489-1)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7652533.svg)](https://doi.org/10.5281/zenodo.7652533)
 
 
 # Data & code repository for *A pseudoproxy emulation of the PAGES 2k database using a hierarchy of proxy system models*
 
-This repository includes the pseudoPAGES2k dataset described in the paper entitled *A pseudoproxy emulation of the PAGES 2k database using a hierarchy of proxy system models* along with the Jupyter notebooks illustrating the usage of the dataset.
+This repository includes the pseudoPAGES2k dataset described in the paper published in *Scientific Data*:
+
+    Zhu, F., Emile-Geay, J., Anchukaitis, K.J. et al. A pseudoproxy emulation of the PAGES 2k database using a hierarchy of proxy system models. Sci Data 10, 624 (2023). https://doi.org/10.1038/s41597-023-02489-1
+
+along with the Jupyter notebooks illustrating the usage of the dataset.
+
 
 The reference climate input used to generate the pseudoproxies is from the isotope-enabled Community Earth System Model (iCESM) last millennium plus historical simulations ([Brady et al., 2019](https://doi.org/10.1029/2019MS001663)), and the post-processed files can be downloaded here: https://atmos.washington.edu/~rtardif/LMR/prior/
 
@@ -49,4 +55,42 @@ Jupyter notebooks illustrating the usage of the dataset leveraging `cfr` v2023.7
 
 
 ## How to cite
-This repository can be cited with DOI: [10.5281/zenodo.7652533](https://doi.org/10.5281/zenodo.7652533)
+
+If you use the pseudoPAGES2k dataset in your scientific publication, we would appreciate using the following citations:
+
+
+```bibtex
+@article{Zhu2023SciData,
+  title = {A Pseudoproxy Emulation of the {{PAGES}} 2k Database Using a Hierarchy of Proxy System Models},
+  author = {Zhu, Feng and {Emile-Geay}, Julien and Anchukaitis, Kevin J. and McKay, Nicholas P. and Stevenson, Samantha and Meng, Zilu},
+  year = {2023},
+  month = sep,
+  journal = {Scientific Data},
+  volume = {10},
+  number = {1},
+  pages = {624},
+  publisher = {{Nature Publishing Group}},
+  issn = {2052-4463},
+  doi = {10.1038/s41597-023-02489-1},
+  urldate = {2023-09-14},
+  copyright = {2023 Springer Nature Limited},
+  langid = {english},
+  keywords = {Palaeoceanography,Palaeoclimate},
+}
+
+@dataset{feng_zhu_2023_8173256,
+  author       = {Feng Zhu and
+                  Julien Emile-Geay and
+                  Kevin J. Anchukaitis and
+                  Nicholas P. McKay and
+                  Samantha Stevenson and
+                  Zilu Meng},
+  title        = {The pseudoPAGES2k Dataset v1.4},
+  month        = jul,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {v1.4},
+  doi          = {10.5281/zenodo.8173256},
+  url          = {https://doi.org/10.5281/zenodo.8173256}
+}
+```
